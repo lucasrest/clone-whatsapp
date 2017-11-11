@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "167883913825",
+    "firebase_url": "https://fir-chat-36c74.firebaseio.com",
+    "project_id": "fir-chat-36c74",
+    "storage_bucket": "fir-chat-36c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167883913825:android:21307104e2e996a1",
+        "android_client_info": {
+          "package_name": "whatsapp.rest.com.br.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167883913825-51qjck3i8ppl0jfaor875q70rbp2rq02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "whatsapp.rest.com.br.whatsapp",
+            "certificate_hash": "7e524d873fa683ebc13779a3270f1c23ab90223f"
+          }
+        },
+        {
+          "client_id": "167883913825-ml6du6t8n5rtqlu4qtomro1snpjnhdn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZbKtF2u0tmEpAzLgzCGjDJBAj_mEDTDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167883913825-ml6du6t8n5rtqlu4qtomro1snpjnhdn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
